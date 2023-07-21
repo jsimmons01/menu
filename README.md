@@ -11,6 +11,8 @@ I remembered how to load items to the DOM by using DOMConentLoaded. Then I creat
 
 I had create a condition that checks if the category is all, if so call the fucntion I created and pass in the origianl array. If not call the same function and pass in the filtered array. 
 
-### What I would do in the future
+Since a created a method that loads the items, I deleted the intial item created in the index. 
 
+### What I would do in the future
+Try for...in instead of reduce to make an array of categories
 In the future I need to use an api and some backend coding to load the items. 
